@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+Houses.csv
+corpus
+titanic_classifier.pickle
+train_and_test2.csv
+wiki-news-300d-1M.vec
