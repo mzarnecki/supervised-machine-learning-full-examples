@@ -4,3 +4,6 @@ corpus
 titanic_classifier.pickle
 train_and_test2.csv
 wiki-news-300d-1M.vec
+history.pickle
+road_sign_classifier_check_v2.h5
+road_sign_classifier_final_v2.h5
